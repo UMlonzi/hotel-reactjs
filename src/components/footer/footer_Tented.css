@@ -1,0 +1,88 @@
+.footercolour1{
+   background-color:  rgba(67, 23, 34, 1);
+   height: 20rem;
+}
+
+.p8{
+    color: white;
+
+   padding-left: 29px;
+    align-items: center;
+    position: absolute;
+    right: 69%;
+    display: flex;
+    top: 347%;
+}
+h37{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    align-items: center;
+    position: absolute;
+    right: 55%;
+    display: flex;
+    top: 336%;
+}
+h36{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    align-items: center;
+    position: absolute;
+    right: 38%;
+    display: flex;
+    top: 336%;
+}
+.footerlogo{
+    width: 10rem;
+    height: 5rem;
+   padding: 25px;
+}
+.ul31 {
+  
+    left: 44%;
+    font-size: 1.1rem;
+    position: absolute;
+    display: flex;
+    display: inline;
+    top: 343%;
+    text-decoration: none;
+}
+.ul31 .li31{
+    position: relative;
+    right: 80%;
+  padding: 9px;
+  
+    top: 337%; 
+    text-decoration: none;
+}
+.a32{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+ 
+}
+.a1:hover {
+    background-color: white;
+    text-decoration: none;
+  }
+.p15{
+    color: grey;
+   
+   font-size: 1.1rem;
+    align-items: center;
+    position: absolute;
+    right: 33.6%;
+    display: flex;
+    top: 343%;
+}
+h45{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    align-items: center;
+    position: absolute;
+    right: 10%;
+    display: flex;
+    top: 336%; 
+}

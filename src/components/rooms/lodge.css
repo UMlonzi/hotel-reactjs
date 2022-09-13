@@ -1,0 +1,112 @@
+h31{
+    color: white;
+    font-family: italic;
+    font-size: 2.5rem;
+    align-items: center;
+    position: absolute;
+    right: 46%;
+    display: flex;
+    padding: 6px;
+    top: 180%;
+}
+.lodge1{
+        color: white;
+         top: 190%;
+        align-items: center;
+        position: absolute;
+        right: 74%;
+        display: flex;
+        padding: 46px;
+        font-size: 1.5rem;
+    
+}
+.lodge2{
+    color: white;
+    top: 190%;
+    align-items: center;
+    position: absolute;
+    right: 40%;
+    display: flex;
+    padding: 46px;
+    font-size: 1.5rem;
+}
+.lodge3{
+    color: white;
+    top: 190%;
+    position: absolute;
+    right: 7%;
+    display: flex;
+    padding: 46px;
+    font-size: 1.5rem;
+}
+.buttonTented{
+    position: absolute;
+    right: 77%;
+    top: 225%;
+    width: 12rem;
+    height: 4rem;
+    border-color: rgba(255, 255, 255, 1);
+    background-color: rgba(217, 217, 217, 0);
+    color: rgba(238, 238, 238, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    border-radius: 40%;
+}
+.buttonCanopy{
+    position: absolute;
+    right: 45%;
+    top: 225%;
+    width: 12rem;
+    height: 4rem;
+    border-color: rgba(255, 255, 255, 1);
+    background-color: rgba(217, 217, 217, 0);
+    color: rgba(238, 238, 238, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    border-radius: 40%;
+}
+.buttonFamily{
+    position: absolute;
+    right: 10%;
+    top: 225%;
+    width: 12rem;
+    height: 4rem;
+    border-color: rgba(255, 255, 255, 1);
+    background-color: rgba(217, 217, 217, 0);
+    color: rgba(238, 238, 238, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    border-radius: 40%;
+}
+.Tented{
+    top: 204%;
+    position: absolute;
+    right: 67%;
+    width: 466px;
+    height: 367px;
+
+}
+.Canopy{
+    top: 204%;
+    position: absolute;
+    right: 33.7%;
+    width: 466px;
+    height: 367px;
+}
+.Family{
+    top: 204%;
+    position: absolute;
+    right: 0.5%;
+    width: 466px;
+    height: 367px;
+}
+.Backgroundcolour{
+    background-color: rgba(122, 131, 122, 0.8588);
+    height: 67rem;
+    
+
+}
+button:hover {
+    background-color: blue;
+
+  }

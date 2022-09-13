@@ -1,0 +1,104 @@
+h5{
+    color: white;
+    font-family: italic;
+    font-size: 3rem;
+    align-items: center;
+    position: absolute;
+    right: 26%;
+    display: flex;
+    top: 259%;
+}
+h7{
+     color: white;
+    font-family: italic;
+    font-size: 3rem;
+    align-items: center;
+    position: absolute;
+    right: 47%;
+    display: flex;
+    top: 335%;
+}
+.Activitie1{
+    color: white;
+    top: 269%;
+   align-items: center;
+   position: absolute;
+   right: 73%;
+   display: flex;
+   padding: 42px;
+   font-size: 1.5rem;
+}
+.Activitie2{
+    color: white;
+    top: 269%;
+   align-items: center;
+   position: absolute;
+   right: 41%;
+   display: flex;
+   padding: 46px;
+   font-size: 1.5rem;
+}
+.Activitie3{
+    color: white;
+    top: 269%;
+   align-items: center;
+   position: absolute;
+   right: 9%;
+   display: flex;
+   padding: 46px;
+   font-size: 1.5rem;
+}
+.Game_Drives{
+    top: 282%;
+    position: absolute;
+    right: 67%;
+    width: 449px;
+    height: 367px;
+    border-radius: 15%;
+}
+.Spa{
+    top: 282%;
+    position: absolute;
+    right: 34%;
+    width: 448px;
+    height: 367px;
+    border-radius: 15%;
+}
+.Fly_fishing{
+    border-radius: 15%;
+    top: 282%;
+    position: absolute;
+    right: 1%;
+    width: 448px;
+    height: 367px;
+}
+.Map{
+    top: 350%;
+    position: absolute;
+    right: 2%;
+    width: 683px;
+    height: 305px;
+   
+}
+h8{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    align-items: center;
+    position: absolute;
+    right: 52%;
+    display: flex;
+    top: 350%;
+}
+
+.p1{
+
+    color: white;
+    position: absolute;
+    right: 61%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 40px;
+    top: 358%;
+}

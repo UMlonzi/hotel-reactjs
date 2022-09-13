@@ -1,0 +1,87 @@
+.footercolour1{
+    background-color:  rgba(67, 23, 34, 1);
+    height: 20rem;
+ }
+ 
+ .p6{
+     color: white;
+ 
+    padding-left: 29px;
+     align-items: center;
+     position: absolute;
+     right: 69%;
+     display: flex;
+     top: 373%;
+ }
+ h17{
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.5rem;
+     align-items: center;
+     position: absolute;
+     right: 55%;
+     display: flex;
+     top: 360%; 
+ }
+ h16{
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.2rem;
+     align-items: center;
+     position: absolute;
+     right: 38%;
+     display: flex;
+     top: 360%; 
+ }
+ .footerlogo1{
+     width: 10rem;
+     height: 5rem;
+    padding: 25px;
+ }
+ .ul5 {
+   
+     left: 44%;
+     font-size: 1.1rem;
+     position: absolute;
+     display: flex;
+     display: inline;
+     top: 370%; 
+     text-decoration: none;
+ }
+ .ul5 .li5{
+     position: relative;
+     right: 80%;
+   padding: 9px;
+   
+   top: 296%;  
+     text-decoration: none;
+ }
+ .a1{
+     color: grey;
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+  
+ }
+ .a1:hover {
+     background-color: white;
+     text-decoration: none;
+   }
+ .p5{
+     color: grey;
+     top: 373%;  
+    font-size: 1.1rem;
+     align-items: center;
+     position: absolute;
+     right: 33.6%;
+     display: flex;
+ }
+ h15{
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.2rem;
+     align-items: center;
+     position: absolute;
+     right: 10%;
+     display: flex;
+     top: 360%; 
+ }

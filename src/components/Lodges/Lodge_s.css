@@ -1,0 +1,172 @@
+h12{
+    position: absolute;
+    color: black;
+    right: 75%;
+    top: 91rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+.Backgroundcolour3{
+    background-color: rgba(122, 131, 122, 0.8588);
+    height: 110rem;
+}
+.Tented_lodge{
+    top: 187%;
+    position: absolute;
+    right: 23%;
+    width: 590px;
+    height: 377px;
+
+}
+.Tented_button{
+    position: absolute;
+    right: 74%;
+    top: 230%;
+    width: 19rem;
+    height: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    background-color: rgba(255, 165, 0, 0.5);
+    color: white;
+    border-color: rgba(255, 255, 255, 0);
+    
+}
+.ul32 {
+   color: white;
+    left: 51%;
+    font-size: 1.1rem;
+    position: absolute;
+    display: flex;
+    display: inline;
+    top: 77%;
+    text-decoration: none;
+}
+.ul32 .li9{
+    position: relative;
+    right: 260%;
+  padding: 9px;
+  
+  top: 65rem;
+    text-decoration: none;
+}
+.para3{
+    color: white;
+    position: absolute;
+   
+    right: 74%;
+   padding-left: 76px;
+   
+    top: 95rem;
+}
+
+.Canopy_lodge{
+    top: 244%;
+    position: absolute;
+    right: 54%;
+    width: 590px;
+    height: 377px;
+
+}
+.Canopy_button{
+    position: absolute;
+    right: 19%;
+    top: 284%;
+    width: 19rem;
+    height: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    background-color: rgba(255, 165, 0, 0.5);
+    color: white;
+    border-color: rgba(255, 255, 255, 0);
+    
+}
+.ul3 {
+   color: white;
+    right: -3%;
+    font-size: 1.1rem;
+    position: absolute;
+    display: flex;
+    display: inline;
+    top: 135%;
+    text-decoration: none;
+}
+.ul3 .li3{
+    position: relative;
+    right: 143%;
+ padding: 9px;
+  
+  top: 65rem;
+    text-decoration: none;
+}
+h14{
+    position: absolute;
+    color: black;
+    right: 20%;
+    top: 120rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+.para4{
+    color: white;
+    position: absolute;
+ 
+   right: 20%;
+    
+    top: 125rem;
+}
+
+.Family_lodge{
+    top: 300%;
+    position: absolute;
+    right: 19%;
+    width: 590px;
+    height: 377px;
+
+}
+.Family_button{
+    position: absolute;
+    right: 75%;
+    top: 338%;
+    width: 19rem;
+    height: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    background-color: rgba(255, 165, 0, 0.5);
+    color: white;
+    border-color: rgba(255, 255, 255, 0);
+    
+}
+.ul4 {
+   color: white;
+    left: 50%;
+    font-size: 1.1rem;
+    position: absolute;
+    display: flex;
+    display: inline;
+    top: 128%;
+    text-decoration: none;
+}
+.ul4 .li4{
+    position: relative;
+    right: 260%;
+  padding: 9px;
+  
+  top: 95rem;
+    text-decoration: none;
+}
+.para5{
+    color: white;
+    position: absolute;
+   
+    right: 74%;
+   padding-left: 76px;
+   top: 151rem;
+}
+h13{
+    position: absolute;
+    color: black;
+    right: 76%;
+    top: 148rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}

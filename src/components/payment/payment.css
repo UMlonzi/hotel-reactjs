@@ -1,0 +1,102 @@
+.welcome2 {
+    height: 100vh;
+    width:100vw;
+  
+     position: relative;
+    overflow: hidden;
+  }
+  
+  .welcome2 > h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 144px;
+    left: 46px;
+    top: 155px;
+    position: absolute;
+    color: white;
+  }
+  
+  .login-register-container2 {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 120px 150px;
+    left: 400px;
+    top: 100px;
+    border: 10px solid gray;
+  }
+  
+  .login-register-container2 > input {
+    height: 30px;
+    width: 80%;
+    outline: none;
+    margin-bottom: 15px;
+    font-size: 25px;
+    padding: 5px;
+  }
+  
+  .login-register-container2 > button {
+    padding: 5px 20px;
+    border: none;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  
+  .sign-in-register-button1 {
+    background: white;
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: black;
+  }
+  
+  .create-account-button1 {
+    background: none;
+    margin-top: 10px;
+  }
+  
+  .todo-svg {
+    position: absolute;
+    bottom: 100px;
+    right: 300px;
+    transform: scale(1.3);
+  }
+  .backgroundcolour{
+    background-color: rgba(122, 131, 122, 0.8588);
+    height: 12rem;
+  
+  }
+  h52{
+    position: absolute;
+    top:  5%;
+    font-weight: 900;
+    font-size:x-large;
+    color: blue;
+  }
+  .payButton{
+    width: 34rem;
+    height: 4rem;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    position: relative;
+    right: 19%; 
+    margin: 31px;
+ }
+  .cardname{
+    position: relative;
+    right: 24%;
+  }
+  h54{
+    position: relative;
+    right: 57%;
+  }
+ 
+  h53{
+    position: relative;
+    right: 61%;
+  }
+  

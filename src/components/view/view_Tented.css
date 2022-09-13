@@ -1,0 +1,170 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.backgroundcolour4{
+    background-color: rgba(122, 131, 122, 0.8588);
+    height: 152rem;
+}
+.Tented_logo{
+    width: 15rem;
+    height: 10rem;
+   padding: 10px;
+}
+.nav2{
+    text-decoration: none;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+.ul2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+}
+.ul2 .li2 .a4 {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    flex-direction: row;
+    justify-content:space-between ;
+    text-decoration: none;
+
+}
+.nav2 .ul2 .li2{
+    position: relative;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    right: 80%;
+    top: 1rem;
+    margin: 20px;
+}
+
+.a4{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+   
+}
+h18{
+    padding: 20px;
+    color: white;
+    font-family: italic;
+    font-size: 3rem;
+    position: absolute;
+    right: 40%;
+}
+.Tented_view1{
+    top: 44%;
+    position: absolute;
+    right: 28.5%;
+    width: 380px;
+    height: 270px;
+}
+.Tented_view2{
+    top: 50%;
+    position: absolute;
+    right: 56%;
+    width: 620px;
+    height: 467px;
+}
+.Tented_view3{
+    top: 87%;
+    position: absolute;
+    right: 28.5%;
+    width: 380px;
+    height: 270px;
+}
+.Tented_view4{
+    top: 87%;
+    position: absolute;
+    right: 1%;
+    width: 380px;
+    height: 270px;
+}
+.Tented_view5{
+    top: 44%;
+    position: absolute;
+    right: 1%;
+    width: 380px;
+    height: 270px;
+}
+.para7{
+    color: white;
+    position: absolute;
+    right: 57%;
+   padding-left: 80px;
+   font-size: 1.1rem;
+   
+    top: 130%;
+    
+}
+.para8{
+    color: white;
+    position: absolute;
+    right: 68%;
+   padding-left: 69px;
+   font-size: 1.1rem;
+   
+   top: 185%;
+}
+    
+
+h19{
+    padding: 20px;
+    color: white;
+    font-family: italic;
+    font-size: 3rem;
+    position: absolute;
+    right: 77%;
+    top: 170%;
+}
+.ul7 {
+    color: white;
+     left: 49%;
+     font-size: 1.1rem;
+     position: absolute;
+     display: flex;
+     display: inline;
+     top: 195%;
+     text-decoration: none;
+ }
+ .ul7 .li6{
+     position: relative;
+     right: 144%;
+   padding: 9px;
+   
+   top: 50%;
+     text-decoration: none;
+ }
+ h20{
+    padding: 20px;
+    color: white;
+    font-family: italic;
+    font-size: 3rem;
+    position: absolute;
+    right: 61%;
+    top: 240%;
+}
+.ul8 {
+    color: white;
+     left: 49%;
+     font-size: 1.1rem;
+     position: absolute;
+     display: flex;
+     display: inline;
+     top: 258%;
+     text-decoration: none;
+ }
+ .ul8 .li7{
+     position: relative;
+     right: 109%;
+   padding: 9px;
+   
+   top: 90%;
+     text-decoration: none;
+ }

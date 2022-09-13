@@ -1,0 +1,50 @@
+.AdminLogout{
+    color:white;
+    background-color: blue;
+    width: 4rem;
+    height: 2.5rem;
+    position: absolute;
+    right: 10%;
+    top: 10%;
+}
+
+.line{
+    background-color: black;
+    height: 2px;
+}
+
+.Users{
+    color: white;
+    background-color: rgb(15, 138, 238);
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    right: 75%;
+    top: 40%;
+    font-size:larger;
+    font-weight: 600;
+}
+
+.Rooms{
+    color: white;
+    background-color: rgb(15, 138, 238);
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    right: 45%;
+    top: 40%;
+    font-size:larger;
+    font-weight: 600;
+}
+
+.Bookings{
+    color: white;
+    background-color: rgb(15, 138, 238);
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    right: 15%;
+    top: 40%;
+    font-size:larger;
+    font-weight: 600;
+}

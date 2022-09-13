@@ -1,0 +1,29 @@
+.AdminLogout{
+    color:white;
+    background-color: blue;
+    width: 4rem;
+    height: 2.5rem;
+    position: absolute;
+    right: 8%;
+    top: 10%;
+}
+
+.line{
+    background-color: black;
+    height: 2px;
+}
+
+h50{
+    position: relative;
+    left: 45%;
+    
+}
+.AdminBack{
+    color:white;
+    background-color: blue;
+    width: 4rem;
+    height: 2.5rem;
+    position: absolute;
+    right: 18%;
+    top: 10%;
+}
